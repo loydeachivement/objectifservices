@@ -14,6 +14,21 @@
   width: 50%;
 }
 
+.contact{
+  margin-left: 25%;
+}
+
+.contact img {
+  height: 450px;
+  width: auto;
+}
+
+.about p,h4{
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
 
 
 .text1{
@@ -692,6 +707,16 @@ footer a:hover {
   .section-p1 {
     padding: 40px 40px;
   }
+.contact{
+  margin-left: 7%;
+}
+
+.contact img {
+  height: 330px;
+  width: auto;
+}
+
+
   #navbar {
   display: flex;
   flex-direction: column;
