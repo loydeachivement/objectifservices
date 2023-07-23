@@ -735,15 +735,8 @@ footer a:hover {
     display: none;
   }
   #hero {
-    height: 35vh;
-    padding: 0 80px;
-    background-position: top 30% right 30%;
+  display: none;
   }
-
-  #hero h3{
-    margin-left: 60px;
-  }
-
   #feature {
     justify-content: center;
   }
